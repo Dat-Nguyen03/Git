@@ -51,6 +51,14 @@ header {
 }
 
 @media(max-width: 740px){
+  .overlay {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.4);
+    z-index: -1;
+    display: none;
+  }
   .nav .links {
     position: fixed;
     top: 0;
