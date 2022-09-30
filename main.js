@@ -11,11 +11,11 @@ openNav.addEventListener('click', ()=>{
 })
 
 closeNav.addEventListener('click', ()=>{
-  nav.style.right = '-30%';
+  nav.style.right = '-50%';
   overlay.style.display = 'none'
 })
 
 overlay.addEventListener('click', ()=>{
-  nav.style.right = '-30%';
+  nav.style.right = '-50%';
   overlay.style.display = 'none'
 })

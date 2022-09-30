@@ -62,7 +62,7 @@ header {
     position: fixed;
     top: 0;
     right: -30%;
-    width: 30%;
+    width: 50%;
     height: 100vh;
     background-color: #000;
     transition: all 0.75s;
