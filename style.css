@@ -61,7 +61,7 @@ header {
   .nav .links {
     position: fixed;
     top: 0;
-    right: -30%;
+    right: -50%;
     width: 50%;
     height: 100vh;
     background-color: #000;
