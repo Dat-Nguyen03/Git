@@ -84,7 +84,7 @@ header {
     margin: 25px 0;
   }
   .fa-solid {
-    display: block;
+    display: inline-block;
     font-size: 30px;
   }
   .fa-solid:hover {
