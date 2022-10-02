@@ -17,8 +17,9 @@ header {
   padding: 10px 20px;
   background-color: #000;
 }
-.logo {
+.logo a{
   font-size: 40px;
+  text-decoration: none;
   font-weight: bold;
   color: #fff;
   cursor: pointer;
